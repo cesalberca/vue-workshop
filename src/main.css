@@ -1,0 +1,7 @@
+:root {
+  --primary: aquamarine;
+}
+
+body {
+  background-color: var(--primary);
+}
